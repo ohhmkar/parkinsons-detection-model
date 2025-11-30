@@ -4,7 +4,7 @@
 
 This project builds a robust diagnostic tool to detect Parkinson's Disease using acoustic voice features. It compares three different machine learning architectures:
 
-Gradient Boosting (XGBoost/GBM)
+Gradient Boosting Machine (GBM)
 
 Support Vector Machine (SVM)
 
