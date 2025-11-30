@@ -24,7 +24,7 @@ Explainability: SHAP plots confirm that vocal instability (high entropy/jitter) 
 
 Clone the repository:
 ```
-git clone [https://github.com/yourusername/parkinsons-detection.git](https://github.com/yourusername/parkinsons-detection.git)
+git clone [https://github.com/ohhmkar/parkinsons-detection.git]
 cd parkinsons-detection
 ```
 
