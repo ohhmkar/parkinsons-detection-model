@@ -10,7 +10,7 @@ Support Vector Machine (SVM)
 
 Deep Neural Network (MLP)
 ## Performance Visuals
-![Confusion Matrix](plots/confusion_matrices.png)
+![Confusion Matrix](plots/violin_plots.png)
 
 The final model is an Ensemble of these three, achieving high sensitivity and specificity. The project also includes model explainability using SHAP values to identify key vocal biomarkers (e.g., Pitch Period Entropy, Spread).
 
